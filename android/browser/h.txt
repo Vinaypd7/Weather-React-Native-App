@@ -1,0 +1,2 @@
+ <input spellcheck="false" id="Search"type="text" name="q" />
+     <input id="S" type="submit" value="🔎"  />
